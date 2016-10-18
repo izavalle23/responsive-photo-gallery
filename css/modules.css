@@ -67,7 +67,6 @@ select,
 textarea,
 [tabindex] {
   -ms-touch-action: manipulation;
-  touch-action: manipulation;
 }
 
 img {
@@ -666,7 +665,6 @@ select,
 textarea {
   -moz-appearance: none;
   -webkit-appearance: none;
-  appearance: none;
 }
 
 input,
@@ -727,7 +725,6 @@ input[type="checkbox"] {
 
   -moz-appearance: none;
   -webkit-appearance: none;
-  appearance: none;
   background-color: #fff;
 
   overflow: hidden;
@@ -749,7 +746,6 @@ input[type="radio"] {
 
   -moz-appearance: none;
   -webkit-appearance: none;
-  appearance: none;
   background-color: #fff;
   border-radius: 50%;
 
